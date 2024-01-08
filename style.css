@@ -56,7 +56,7 @@ img {
   font-weight: 700;
 }
 nav{
-    height: 80px;
+    height: 81px;
     display: flex;
     align-items: center;
 }
@@ -78,7 +78,7 @@ nav{
 
 .nav-links{
     display: flex;
-    margin-left: 4rem;
+    margin-left: 3rem;
     list-style: none;
     gap: 2.5rem;
 
